@@ -9,4 +9,5 @@ The Process to get the GoogleMap key is presented in the pdf attached
 3. Add the dependencies Spring Web, Thymeleaf, Lombok
 4. Create a controller class to read the user input from the address bar (MapController)
 5. Then inside src-->main-->resources, and inside templates folder--> create index.html file
-6. Now, run the project main file and see the google map for the defined long and latitude of the places
+   a. Inside the html file give the google map api key 
+7. Now, run the project main file and see the google map for the defined long and latitude of the places
